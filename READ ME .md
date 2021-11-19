@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GURUSUJAN
 - 👀 I’m interested in CODING
-- 🌱 I’m currently learning NOTHING
-- 💞️ I’m looking to collaborate on NOTHING
+- 🌱 I’m currently learning PYTHON
+- 💞️ I’m looking to collaborate on DOING NOTHING
 - 📫 How to reach me naiju2002@gmail.com
 
 <!---
