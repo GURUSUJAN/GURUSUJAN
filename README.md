@@ -2,7 +2,7 @@
 <h3 align="center">A passionate FrontEnd, C++ Developer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurusujan&label=Profile%20views&color=0e75b6&style=flat" alt="gurusujan" /> </p>
-<img align="right" alt="code" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0DL3Tuz6FYcZ6qxFifMdZ0&ust=1677778808913000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPChtaGju_0CFQAAAAAdAAAAABBA">
+<img align="right" alt="code" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0DL3Tuz6FYcZ6qxFifMdZ0&ust=1677778808913000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPChtaGju_0CFQAAAAAdAAAAABBA.gif">
 
 - 🔭 I’m currently working on **🏥 Hospital Management System**
 
