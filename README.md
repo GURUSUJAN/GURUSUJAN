@@ -2,7 +2,6 @@
 <h3 align="center">A passionate FrontEnd, C++ Developer from India!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gurusujan&label=Profile%20views&color=0e75b6&style=flat" alt="gurusujan" /> </p>
-<img align="right" alt="code" width="400" src="![image](https://user-images.githubusercontent.com/94339643/222221304-554c69f5-9f6c-419a-9e41-5bb47463660f.png)">
 
 - 🔭 I’m currently working on **🏥 Hospital Management System**
 
