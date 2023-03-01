@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Gurusujan Reddy MADEM</h1>
 <h3 align="center">A passionate FrontEnd, C++ Developer from India!</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gurusujan&label=Profile%20views&color=0e75b6&style=flat" alt="gurusujan" /> </p>
-
 - 🔭 I’m currently working on **🏥 Hospital Management System**
 
 - 🌱 I’m currently learning **Java, DSA, Python, MEAN, SWIFT!**
