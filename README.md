@@ -1,3 +1,4 @@
+![logo](https://github.com/GURUSUJAN/GURUSUJAN/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Gurusujan Reddy MADEM</h1>
 <h3 align="center">A passionate FrontEnd, C++ Developer from India!</h3>
 
