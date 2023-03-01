@@ -1,4 +1,4 @@
-👨‍💻### Hi there 👋 Gurusujan Reddy Madem! Here 😉
+Hi there 👋 Guru Sujan Reddy Madam! Here 😉
 
 <!--
 **GURUSUJAN/GURUSUJAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
