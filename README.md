@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Java, DSA, Python, MEAN, SWIFT!**
 
-- 👨‍💻 All of my projects are available at <button style="text-decoration:none;color:black;background-color:blue;"><a href="https://gurusujanreddymademnai.on.drv.tw/www.Gurusujan%20Reddy.com/Portfolio.html">Website</button>
+- 👨‍💻 All of my projects are available at <button><a href="https://gurusujanreddymademnai.on.drv.tw/www.Gurusujan%20Reddy.com/Portfolio.html" target="_blank">Website</button>
 
 - 💬 Ask me about **C++, C, SQL, FrontEnd!**
 
