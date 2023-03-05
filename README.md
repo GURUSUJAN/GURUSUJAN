@@ -1,5 +1,5 @@
 ![logo](https://github.com/GURUSUJAN/GURUSUJAN/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/guru-sujan-975647204/" target="_blank" color="#c5f015">Gurusujan Reddy MADEM</a></h1>
+<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/guru-sujan-975647204/" target="_blank" style="color: #c5f015;">Gurusujan Reddy Madem!</a></h1>
 <h3 align="center">A passionate FrontEnd, C++ Developer from India!</h3>
 
 - 🔭 I’m currently working on **🏥 Hospital Management System**
