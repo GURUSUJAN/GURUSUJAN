@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **naiju2002@gmail.com**
 
-- ⚡ Fun fact **I think I am an Alien👽!**
+- ⚡ Fun fact **I am an Alien👽!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
