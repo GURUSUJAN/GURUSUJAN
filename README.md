@@ -1,18 +1,31 @@
-![logo](https://github.com/GURUSUJAN/GURUSUJAN/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png)
-<h1 align="center">Hi 👋, I'm <a href="https://www.linkedin.com/in/gurusujan/" target="_blank" style="color: #c5f015;">Gurusujan Reddy Madem!</a></h1>
-<h3 align="center">A passionate FrontEnd, C++ Developer from India!</h3>
+![logo](https://github.com/GURUSUJAN/GURUSUJAN/blob/main/Untitled.png)
+<h1 align="center">
+  Hi there 👋
+  <br>
+  <a href="https://www.linkedin.com/in/gurusujan" target = "_blank">Gurusujan Reddy Madem</a>
+  <br>
+  Here
+</h1>
+<div align="center">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&duration=4000&pause=500&width=435&lines=%f0%9f%92%bb+Software+Developer.;%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB+Front+End+Developer.;%f0%9f%93%b2+Digital+Electronics.;%F0%9F%A4%96+Robotics+and+Automation.;%f0%9f%93%b2+Chip+Desginer." alt="Typing SVG" />
+  
+</div>
 
-- 🔭 I’m currently working on **🏥 Hospital Management System**
 
-- 🌱 I’m currently learning **Java, DSA, Python, MEAN, SWIFT!**
-
-- 👨‍💻 All of my projects are available at <button><a href="https://gurusujanreddymademnai.on.drv.tw/www.Gurusujan%20Reddy.com/Portfolio.html" target="_blank">Website</button>
-
-- 💬 Ask me about **C++, C, SQL, FrontEnd!**
-
+- 🌱 It's not over until it's over!
+- 💬 Ask me about <strong>DIGITAL ELECTRONICS, VERILOG, SYSTEM VERILOG, C, C++, JAVA, VLSI.</strong>
 - 📫 How to reach me **gurusujanreddymadem@gmail.com**
-
-- ⚡ Fun fact **I am an Alien👽!**
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurusujan&show_icons=true&locale=en&layout=compact" alt="gurusujan" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gurusujan&" alt="gurusujan" /></p>
+- 👽 Nickname: Alien😁.
+<div>
+  <h2>Contact links : </h2>
+  <a href="https://www.linkedin.com/in/gurusujan/" target = "_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/800px-LinkedIn_logo_initials.png" width="60">
+  </a>
+  <a href="https:https://www.instagram.com/_alien_x.x_/" target = "_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="60" height="60">
+  </a>
+  <br>
+  <br>
+  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurusujan&show_icons=true&locale=en&layout=compact" alt="gurusujan" /></p>
+</div>
