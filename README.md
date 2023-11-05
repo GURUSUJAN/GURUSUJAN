@@ -25,6 +25,9 @@
   <a href="https:https://www.instagram.com/_alien_x.x_/" target = "_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/2048px-Instagram_icon.png" width="60" height="60">
   </a>
+   <a href="https://gurusujan.carrd.co/" target = "_blank">
+    <img src="https://static.vecteezy.com/system/resources/previews/009/317/249/original/personal-website-icon-logo-illustration-portfolio-symbol-template-for-graphic-and-web-design-collection-free-vector.jpg" width="60">
+  </a>
   <br>
   <br>
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=gurusujan&show_icons=true&locale=en&layout=compact" alt="gurusujan" /></p>
