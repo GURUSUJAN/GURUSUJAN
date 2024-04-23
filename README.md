@@ -1,4 +1,4 @@
-![logo](https://github.com/GURUSUJAN/GURUSUJAN/blob/main/Untitled.png)
+![logo](https://github.com/GURUSUJAN/GURUSUJAN/blob/main/Navy Blue Geometric Technology LinkedIn Banner.png)
 <h1 align="center">
   Hi there 👋
   <br>
